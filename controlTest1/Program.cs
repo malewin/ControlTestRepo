@@ -51,7 +51,7 @@ string[] GetRandomWord(int symbolsNumberUser, int maxBorder) // метод ге�
     }
     return stringArray;
 }
-
+q
 string [] NewArray3x (string[] array)
 {
     int count = 0;
