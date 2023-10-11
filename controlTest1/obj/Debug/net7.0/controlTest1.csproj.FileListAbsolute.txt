@@ -1,0 +1,14 @@
+/Users/viktortarkhanov/Desktop/ControlTestRepo/controlTest1/obj/Debug/net7.0/controlTest1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktortarkhanov/Desktop/ControlTestRepo/controlTest1/obj/Debug/net7.0/controlTest1.AssemblyInfoInputs.cache
+/Users/viktortarkhanov/Desktop/ControlTestRepo/controlTest1/obj/Debug/net7.0/controlTest1.AssemblyInfo.cs
+/Users/viktortarkhanov/Desktop/ControlTestRepo/controlTest1/obj/Debug/net7.0/controlTest1.csproj.CoreCompileInputs.cache
+/Users/viktortarkhanov/Desktop/ControlTestRepo/controlTest1/bin/Debug/net7.0/controlTest1
+/Users/viktortarkhanov/Desktop/ControlTestRepo/controlTest1/bin/Debug/net7.0/controlTest1.deps.json
+/Users/viktortarkhanov/Desktop/ControlTestRepo/controlTest1/bin/Debug/net7.0/controlTest1.runtimeconfig.json
+/Users/viktortarkhanov/Desktop/ControlTestRepo/controlTest1/bin/Debug/net7.0/controlTest1.dll
+/Users/viktortarkhanov/Desktop/ControlTestRepo/controlTest1/bin/Debug/net7.0/controlTest1.pdb
+/Users/viktortarkhanov/Desktop/ControlTestRepo/controlTest1/obj/Debug/net7.0/controlTest1.dll
+/Users/viktortarkhanov/Desktop/ControlTestRepo/controlTest1/obj/Debug/net7.0/refint/controlTest1.dll
+/Users/viktortarkhanov/Desktop/ControlTestRepo/controlTest1/obj/Debug/net7.0/controlTest1.pdb
+/Users/viktortarkhanov/Desktop/ControlTestRepo/controlTest1/obj/Debug/net7.0/controlTest1.genruntimeconfig.cache
+/Users/viktortarkhanov/Desktop/ControlTestRepo/controlTest1/obj/Debug/net7.0/ref/controlTest1.dll

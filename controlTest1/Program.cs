@@ -52,34 +52,9 @@ string[] GetRandomWord(int symbolsNumberUser, int maxBorder) // метод ге�
     return stringArray;
 }
 
-string [] NewArray3x (string[] array)
-{
-    int count = 0;
-    for (int i = 0; i < array.Length; i++)
-    {
-        if(array[i].Length <= 3) count++;
-    }
-    string [] newArray3x = new string[count];
-    int number = 0;
-    for (int i = 0; i < array.Length; i++)
-    {
-        if(array[i].Length <= 3)
-        {
-            newArray3x[number] = array[i];
-            number++;
-        }
-    }
-    return newArray3x;
-}  
 
 string [] userArray = GetRandomWord (symbolsNumberUser, maxBorder);
-Console.ForegroundColor = ConsoleColor.Blue;
 Console.Write("Ваш первоначальный массив(заполнили рандомно) :");
 PrintUserArray(userArray);
 
 
-string [] readyArray = NewArray3x(userArray);
-Console.WriteLine();
-Console.ForegroundColor = ConsoleColor.Green;
-Console.Write("Ваш массив удовлетворящий решению условия задачи : ");
-PrintUserArray(readyArray);
